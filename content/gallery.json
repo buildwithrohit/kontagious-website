@@ -1,0 +1,268 @@
+[
+  {
+    "id": "g001",
+    "src": "images/2091bc_6ce5fb690f40433784c1449bb5a581ab.webp",
+    "caption": "The Kontagious journey",
+    "visible": true,
+    "featured": true
+  },
+  {
+    "id": "g002",
+    "src": "images/2091bc_ff846b6640954b6f91a954172ff5995b.jpg",
+    "caption": "The Kontagious story",
+    "visible": true,
+    "featured": true
+  },
+  {
+    "id": "g003",
+    "src": "images/2091bc_eb9111bc34ba4e4ab646ea84daac2737.webp",
+    "caption": "Networking for success",
+    "visible": true,
+    "featured": true
+  },
+  {
+    "id": "g004",
+    "src": "images/2091bc_f9ad9437b78445e3b0d0f961f4d1c948.jpg",
+    "caption": "Musical evening at SJSU",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g005",
+    "src": "images/2091bc_b44b04abb06545d99b38bb698fba31b4.webp",
+    "caption": "Volunteers assembling welcome bags",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g006",
+    "src": "images/2091bc_d7b8150c270044d993bbe11c1b6606f0.webp",
+    "caption": "A warm welcome at the airport",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g007",
+    "src": "images/2091bc_d16b1dc1b10c4500b218ca19c338cf67.webp",
+    "caption": "Welcome dinner",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g008",
+    "src": "images/2091bc_e15721404f784a7e86bf18cb2852fe23.webp",
+    "caption": "Building connections",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g009",
+    "src": "images/2091bc_83b74e2ebd704f379b0ccb9db7f2c04c.jpg",
+    "caption": "Smiles all around",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g010",
+    "src": "images/2091bc_9d771178d6ac4bf1ba8ad3a522af13cc.webp",
+    "caption": "Classmates connected",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g011",
+    "src": "images/2091bc_277c0cb3302042efa400b96e181d019a.webp",
+    "caption": "Christmas celebration",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g012",
+    "src": "images/2091bc_49932b36ff9945f88f0ef8b59dd9824c.jpg",
+    "caption": "Hiking crew",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g013",
+    "src": "images/2091bc_d7182edafbbe42d19d5373bfffd4d849.jpg",
+    "caption": "Yosemite camping",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g014",
+    "src": "images/2091bc_949fb60cdd2d4998b7c32c328ad4dc1f.webp",
+    "caption": "Picking oranges",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g015",
+    "src": "images/2091bc_0593581dcf16438db44bd602c411547f.jpg",
+    "caption": "Graduation celebration",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g016",
+    "src": "images/2091bc_bfee213621b34e058d03245ca2f3ee53.webp",
+    "caption": "Tahoe leadership camp",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g017",
+    "src": "images/2091bc_beb316e415ce447288f91eeb6653f57c.webp",
+    "caption": "Game night",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g018",
+    "src": "images/2091bc_1263c112d7d94efa98915205631e5cbc.webp",
+    "caption": "A fun community",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g019",
+    "src": "images/2091bc_6cff9d1c4d034e5eb23437c9e1da9bfc.webp",
+    "caption": "Leadership camp friendships",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g020",
+    "src": "images/2091bc_d80ac4cc94a74d5bb60be448fd1bc3f8.webp",
+    "caption": "Personalized mentoring",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g021",
+    "src": "images/2091bc_3c19b97c82b04a2182631d7fad9b7af1.webp",
+    "caption": "One-on-one mentoring",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g022",
+    "src": "images/2091bc_ee45fd4807474e0d826e3179522499b8.webp",
+    "caption": "From strangers to family",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g023",
+    "src": "images/2091bc_b5e96208afb64290a144adf352648e2a.webp",
+    "caption": "Another welcome dinner",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g024",
+    "src": "images/2091bc_31f83337cc6646d2a70f37029f78e250.webp",
+    "caption": "Volunteer team 2025-26",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g025",
+    "src": "images/2091bc_98998fc907d9415fbcb452f3c10ab137.webp",
+    "caption": "Mission Peak alumni trek",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g026",
+    "src": "images/2091bc_dfbdabf9faa144e39d9ffef30d101982.webp",
+    "caption": "Alumni celebration",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g027",
+    "src": "images/2091bc_f1a89404dc524f37a1a0ac2572e98d31.webp",
+    "caption": "Presidential handover",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g028",
+    "src": "images/2091bc_c2b439b0dfa248eaba482b0caad27809.webp",
+    "caption": "Alumni farewell dinner",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g029",
+    "src": "images/2091bc_17fd22f5e45640d788e545d489c6bdad.webp",
+    "caption": "A true alumni family",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g030",
+    "src": "images/2091bc_40b5636d9ea0499db84e712c6bfd2c26.webp",
+    "caption": "Pitching tents at Reinhardt Redwoods",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g031",
+    "src": "images/2091bc_21553308861e43889a4a60b7fc2233c0.webp",
+    "caption": "Break after the first day's hike",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g032",
+    "src": "images/2091bc_6cd47bb9b22e455cac08cb3271d2b88e.webp",
+    "caption": "Second day of hiking",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g033",
+    "src": "images/2091bc_7af8ead743294177934ac3b22d7d87a2.webp",
+    "caption": "A Kontagious family by the last day",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g034",
+    "src": "images/2091bc_078d4cf410eb4343ab82aa91b55f5c1a.jpg",
+    "caption": "Hiking Nisene Marks State Park",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g035",
+    "src": "images/2091bc_8c372fe797dc40d8a3f6583e0003709e.jpg",
+    "caption": "Bridge between two mountains",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g036",
+    "src": "images/2091bc_7052d67ae7b8445d938e0c4dda12b198.jpg",
+    "caption": "Lunch after the hike",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g037",
+    "src": "images/a8263f_20221997d89746939dff64304e41cd82.jpg",
+    "caption": "Pickleball Club",
+    "visible": true,
+    "featured": false
+  },
+  {
+    "id": "g038",
+    "src": "images/a8263f_2c94417aa1914482a995d11981920af1.png",
+    "caption": "Midweek hiking mentorship",
+    "visible": true,
+    "featured": false
+  }
+]
